@@ -5,6 +5,8 @@ This task is based on a synthesised transaction dataset containing 3 months’ w
 The dataset is designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data, so many of the insights you can gather from the tasks below will be genuine.
 
 Task 1 started by exploring and cleaning data. I tried to practice filtering data by employing the Pandas library in Python on Google Colab. 
+
+
 Task 2: Using the same transaction dataset, identify the annual salary for each customer
 
 Explore correlations between annual salary and various customer attributes (e.g. age). These attributes could be those that are readily available in the data (e.g. age) or those that you construct or derive yourself (e.g. those relating to purchasing behaviour). Visualise any interesting correlations using a scatter plot.
